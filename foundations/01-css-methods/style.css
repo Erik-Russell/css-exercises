@@ -1,0 +1,9 @@
+/* this is external style for the div */
+
+div {
+    color:white;
+    background-color: red;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
