@@ -1,0 +1,9 @@
+/* only p's in div's */
+
+
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
