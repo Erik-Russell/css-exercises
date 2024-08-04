@@ -1,0 +1,27 @@
+/* make the background red */
+
+
+
+.pink-background {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: pink;
+    font-size: 18px;
+}
+
+.large-font {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+#number-2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blue;
+}
+
+#number-4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: palegreen;
+}
