@@ -12,6 +12,31 @@ img {
   font-weight: 900;
 }
 
+.text {
+  text-align: center;
+}
+
+.information-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+
+.individual-card-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 52px;
+}
+
+.individual-card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  max-width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
